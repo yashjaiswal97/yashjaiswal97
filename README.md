@@ -1,52 +1,30 @@
-# 👋 Hi there, I'm Yash Jaiswal!
+# Hi 👋, I'm Yash Jaiswal
 
-🚀 A passionate **Frontend Developer** with over 4 years of experience in startups and freelancing, specializing in crafting user-friendly, responsive, and visually appealing web applications. I bring ideas to life using **HTML, CSS, JavaScript, React JS**, and also have backend knowledge in **PHP** and **MySQL**.
+A frontend developer based in India 🇮🇳
 
----
-
-## 💼 What I Do
-
-- 🌐 Build sleek and responsive UI/UX for modern web apps
-- 🎨 Translate Figma designs into pixel-perfect websites
-- 🔍 Collaborate closely with teams to bring scalable ideas to life
-- 🛠️ Constantly explore new tech to grow as a developer
+- 🌱 I’m currently learning **DSA in JavaScript** and enhancing my **TypeScript** & **React** skills  
+- 💼 All of my projects are available here on [GitHub]
+- 💬 Ask me about **JavaScript, React, UI/UX, TypeScript**  
+- 📫 How to reach me: yashjaiswal.contact@gmail.com  
+- 📄 Know about my experiences: <!-- Replace # with actual resume link if you have one -->
 
 ---
 
-## 👨‍💻 Tech Stack
-
-- **Languages:** HTML, CSS, JavaScript, TypeScript, PHP
-- **Frontend:** React.js, Responsive Design, UI/UX Development
-- **Backend:** PHP, MySQL (basic)
-- **Tools:** Git, GitHub, VS Code, Figma
-- **Other:** Data Analysis (collaboration experience), Creative Thinking
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-jaiswal001/)
 
 ---
 
-## 🧠 Currently Learning
+### Languages and Tools:
 
-- 📚 Data Structures & Algorithms (JavaScript)
-- 💡 Advanced React and TypeScript patterns
-- 🔭 Building cool projects with NASA APIs and more!
-
----
-
-## 🎯 Goals
-
-- 📌 Land a challenging Frontend Developer role where I can grow and make an impact
-- ✨ Continuously improve UI/UX skills and build stunning user experiences
-- 🤝 Contribute to open-source and collaborate with awesome devs
-
----
-
-## 📬 Let's Connect!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/yash-jaiswal-124a1a188/)
-- 🌐 [Portfolio (coming soon)](#)
-- 📫 Drop me a message: `yashjaiswal.contact@gmail.com`
-
----
-
-> “Design is not just what it looks like and feels like. Design is how it works.” – *Steve Jobs*
-
-Thanks for visiting my profile! ⭐️
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
