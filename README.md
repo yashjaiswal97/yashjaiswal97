@@ -5,12 +5,13 @@ A frontend developer based in India 🇮🇳
 - 🌱 I’m currently learning **DSA in JavaScript** and enhancing my **TypeScript** & **React** skills  
 - 💼 All of my projects are available here on [GitHub]
 - 💬 Ask me about **JavaScript, React, UI/UX, TypeScript**  
-- 📫 How to reach me: yashjaiswal.contact@gmail.com  
+- 📫 How to reach me: yashj2897@gmail.com  
 - 📄 Know about my experiences: <!-- Replace # with actual resume link if you have one -->
 
 ---
 
 ### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-jaiswal001/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-jaiswal001/)
 
 ---
