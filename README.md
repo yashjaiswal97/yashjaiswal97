@@ -6,14 +6,13 @@ A frontend developer based in India 🇮🇳
 - 💼 All of my projects are available here on [GitHub]
 - 💬 Ask me about **JavaScript, React, UI/UX, TypeScript**  
 - 📫 How to reach me: yashj2897@gmail.com  
-- 📄 Know about my experiences: <!-- Replace # with actual resume link if you have one -->
+- 📄 Know about my experiences: https://yashjaiswal.online/resume.pdf <!-- Replace # with actual resume link if you have one -->
 
 ---
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-jaiswal001/)
-### My Portfolio:
-[![Portfolio](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://yashjaiswal.online/)
+
 
 ---
 
