@@ -4,9 +4,10 @@
 I am a programmer/ developer/ a wizard. I really enjoy solving problems as well as making things cool and easy to use. I can't stop learning new things; the more, the better. I also love photography, sketching and writing and of course music !
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=10&color=1E924D&width=435&lines=I+am+currently+looking+for+work;and+I'd+love+to+hear+from+you)](https://git.io/typing-svg)
-- 💼 All of my projects are available here 
+- 💼 All of my projects are available here on github
 
-- 📫 reach out to me: yashj2897@gmail.com  
+- 📫 reach out to me: yashj2897@gmail.com
+- Portfolio: yashjaiswal.online
 - 📄 Know about my experiences: https://yashjaiswal.online/resume.pdf <!-- Replace # with actual resume link if you have one -->
 
 ---
