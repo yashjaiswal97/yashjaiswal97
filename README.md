@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=5&color=1E924D&width=435&lines=Hello%2C+world!;I+am+Yash;A+frontend+developer)](https://git.io/typing-svg)
 # Hi 👋, I'm Yash Jaiswal
 
 A frontend developer based in India 🇮🇳
