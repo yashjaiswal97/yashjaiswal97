@@ -1,7 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=5&color=1E924D&width=435&lines=Hello%2C+world!;I+am+Yash;A+frontend+developer)](https://git.io/typing-svg)
-# Hi 👋, I'm Yash Jaiswal
-
-A frontend developer based in India 🇮🇳
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=5&color=1E924D&width=435&lines=Hello%2C+world!;I+am+Yash%2C;a+frontend+developer+based+in+India+)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **DSA in JavaScript** and enhancing my **TypeScript** & **React** skills  
 - 💼 All of my projects are available here on [GitHub]
