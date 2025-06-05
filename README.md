@@ -7,7 +7,7 @@ I am a programmer/ developer/ a wizard. I really enjoy solving problems as well 
 - 💼 All of my projects are available here on github
 
 - 📫 reach out to me: yashj2897@gmail.com
-- Portfolio: yashjaiswal.online
+- Portfolio: [yashjaiswal.online](https://yashjaiswal.online/)
 - 📄 Know about my experiences: https://yashjaiswal.online/resume.pdf <!-- Replace # with actual resume link if you have one -->
 
 ---
